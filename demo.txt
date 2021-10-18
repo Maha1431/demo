@@ -1,3 +1,7 @@
 absent1
+<<<<<<< HEAD
 present1
+=======
+present0
+>>>>>>> demo
 hello 1
